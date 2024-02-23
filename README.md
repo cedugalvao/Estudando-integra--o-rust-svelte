@@ -25,6 +25,6 @@ Isso compilará e iniciará o servidor Rust.
 Abra seu navegador e acesse http://127.0.0.1:8080. Você deve ver a página inicial do servidor.
 
 ## Estrutura do Projeto
-` src/main.rs`: Contém o código principal do servidor Rust.
-` Cargo.toml`: Arquivo de configuração do Cargo, o gerenciador de pacotes do Rust.
-` public/`: Pasta que pode conter arquivos estáticos, como páginas HTML, CSS, etc.
+`src/main.rs`: Contém o código principal do servidor Rust.
+`Cargo.toml`: Arquivo de configuração do Cargo, o gerenciador de pacotes do Rust.
+`public/`: Pasta que pode conter arquivos estáticos, como páginas HTML, CSS, etc.
